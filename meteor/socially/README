@@ -1,0 +1,1 @@
+Removed Blaze and ecmascript packages because we're working with AngularJS on the client side
